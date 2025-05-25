@@ -80,34 +80,33 @@
       "alt": "Moamen Helal, Business connector and Entrepreneur"
     }
   },
-  "about": {
-    "heading": "About Moamen Helal",
-    "description": "I help entrepreneurs and companies navigate the hard journey from ideation to successful execution. With expertise in business process optimization, strategic planning, and investor relations, I serve as your trusted partner in growth.",
-    "image": {
-      "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
-      "alt": "Moamen Helal working with clients on business strategy"
-    },
-    "youtubeId": "https://www.youtube.com/watch?v=sZ1RWu3TTHQ",
-    "qualities": [
-      {
-        "title": "B2B Expert",
-        "description": "Specialized in business-to-business strategy and relationship building."
-      },
-      {
-        "title": "Eco-system Builder",
-        "description": "I'm always linking people up to spark new collaborations and creating valuable networks."
-      },
-      {
-        "title": "Marketing Expert",
-        "description": "Helping you transform your raw energy into marketable ideas that are new and impactful."
-      },
-      {
-        "title": "Business Developer",
-        "description": "Specialized in identifying growth opportunities, building partnerships, and business development strategies."
-      }
-    ],
-
+"about": {
+  "heading": "About Moamen Helal",
+  "description": "I help entrepreneurs and companies navigate the hard journey from ideation to successful execution. With expertise in business process optimization, strategic planning, and investor relations, I serve as your trusted partner in growth.",
+  "image": {
+    "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
+    "alt": "Moamen Helal working with clients on business strategy"
   },
+  "youtubeId": "https://www.youtube.com/watch?v=sZ1RWu3TTHQ",
+  "qualities": [
+    {
+      "title": "B2B Expert",
+      "description": "Specialized in business-to-business strategy and relationship building."
+    },
+    {
+      "title": "Eco-system Builder",
+      "description": "I'm always linking people up to spark new collaborations and creating valuable networks."
+    },
+    {
+      "title": "Marketing Expert",
+      "description": "Helping you transform your raw energy into marketable ideas that are new and impactful."
+    },
+    {
+      "title": "Business Developer",
+      "description": "Specialized in identifying growth opportunities, building partnerships, and business development strategies."
+    }
+  ]
+},
   "services": {
     "heading": "Services",
     "subheading": "Comprehensive consulting services to help you at every stage of your business journey, from initial concept to successful execution.",
