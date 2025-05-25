@@ -1,0 +1,272 @@
+{
+  "seo": {
+    "title": "Moamen Helal",
+    "description": "Strategic connector guiding strtups from idea stage to finding their market fit. With specialized knowledge in business, investor connections, and B2B growth.",
+    "keywords": [
+      "business relationships",
+      "entrepreneur",
+      "business strategy",
+      "investor relations",
+      "B2B expert",
+      "startup advisor",
+      "Content Marketing",
+      "Business Development",
+      "B2B Growth",
+      "Investor Relations",
+      "Startup Advisor",
+      "Startup Consultant"
+    ],
+    "author": "Moamen Helal",
+    "siteUrl": "https://moamenhelal.com",
+    "ogImage": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
+    "twitterHandle": "@moamenhelal0",
+    "twitterImage": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Moamen Helal Business Consulting",
+      "description": "Strategic connector guiding strtups from idea stage to finding their market fit. With specialized knowledge in business, investor connections, and B2B growth.",
+      "image": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
+      "url": "https://moamenhelal.com",
+      "telephone": "+20-101-307-9763",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1 Mahmoud Salama",
+        "addressLocality": "Alexandria",
+        "addressRegion": "ALX",
+        "postalCode": "10001",
+        "addressCountry": "EG"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/moamenhelal",
+        "https://twitter.com/moamenhelal0",
+        "https://www.instagram.com/moamenhelal0",
+        "https://www.facebook.com/moamenhelal0"
+      ],
+      "priceRange": "$$"
+    }
+  },
+  "navigation": {
+    "logo": "MOAMEN HELAL",
+    "links": [
+      { "text": "About", "href": "#about" },
+      { "text": "Services", "href": "#services" },
+      { "text": "Ventures", "href": "#ventures" },
+      { "text": "Testimonials", "href": "#testimonials" }
+    ],
+    "cta": "Let's Call"
+  },
+  "hero": {
+    "heading": {
+      "part1": "Business Magnet",
+      "part2": ""
+    },
+    "subheading": "Moamen Helal is a strategic business partner helping startups through the path from concept to reality, with expertise in planning, venture capital, and B2B partnerships.",
+    "cta": "Let's talk",
+    "image": {
+      "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
+      "alt": "Moamen Helal, Business connector and Entrepreneur"
+    }
+  },
+  "about": {
+    "heading": "About Moamen Helal",
+    "description": "I help entrepreneurs and companies navigate the hard journey from ideation to successful execution. With expertise in business process optimization, strategic planning, and investor relations, I serve as your trusted partner in growth.",
+    "image": {
+      "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
+      "alt": "Moamen Helal working with clients on business strategy"
+    },
+    "vimeoId": "824804225",
+    "qualities": [
+      {
+        "title": "B2B Expert",
+        "description": "Specialized in business-to-business strategy and relationship building."
+      },
+      {
+        "title": "Eco-system Builder",
+        "description": "I'm always linking people up to spark new collaborations and creating valuable networks."
+      },
+      {
+        "title": "Marketing Expert",
+        "description": "Helping you transform your raw energy into marketable ideas that are new and impactful."
+      },
+      {
+        "title": "Business Developer",
+        "description": "Specialized in identifying growth opportunities, building partnerships, and business development strategies."
+      }
+    ]
+  },
+  "services": {
+    "heading": "Services",
+    "subheading": "Comprehensive consulting services to help you at every stage of your business journey, from initial concept to successful execution.",
+    "cta": "Book a Consultation",
+    "items": [
+      {
+        "icon": "LightbulbIcon",
+        "title": "Ideation & Strategy",
+        "description": "Let's transform your vision into a concrete business plan with actionable steps and strategic direction."
+      },
+      {
+        "icon": "FileText",
+        "title": "Marketing Strategy & SEO",
+        "description": "I help you develop comprehensive business plans that align with your goals and appeal to potential investors."
+      },
+      {
+        "icon": "Users",
+        "title": "Investor Relations",
+        "description": "I can connect you with the right investors and prepare compelling pitches to secure funding for your venture."
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Business Process Optimization",
+        "description": "Streamline your operations and implement efficient processes to maximize productivity and growth."
+      }
+    ]
+  },
+  "logos": {
+    "heading": "Who Did I Work With?",
+    "items": [
+      {
+        "image": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747673669/2_cxoc80.png",
+        "alt": "Hellal Content Marketing",
+        "width": 200,
+        "height": 200,
+        "url": "",
+        "name": "Hellal Content Marketing"
+      },
+      {
+        "image": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747673669/4_btlfx0.png",
+        "alt": "illustraV logo - Tech partner of Moamen Helal",
+        "width": 200,
+        "height": 200,
+        "url": "https://illustraV.com",
+        "name": "illustraV"
+      },
+      {
+        "image": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747673668/1_ruui7i.png",
+        "alt": "Gold's Gym logo",
+        "width": 200,
+        "height": 200,
+        "url": "https://www.goldsgym.com/",
+        "name": "Gold's Gym"
+      },
+      {
+        "image": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747673765/Logos_Moamen_Helal_jelr8n.png",
+        "alt": "The Fourth Dimension logo",
+        "width": 200,
+        "height": 200,
+        "url": "https://linktr.ee/fourth.dimension",
+        "name": "The Fourth Dimension"
+      }
+    ]
+  },
+  "ventures": {
+    "heading": "My Ventures",
+    "subheading": "What I'm doing to support entrepreneurs and businesses in different ways, from content marketing to historical & economical consciousness.",
+    "items": [
+      {
+        "title": "Hellal Content Market",
+        "description": "Content marketing agency specializing in personal branding and founder-led content for businesses. We help companies tell authentic stories that resonate with their audience.",
+        "image": {
+          "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747671907/Helal%20Marketing.png",
+          "alt": "Hellal Content Marketing Agency specializing in personal branding"
+        },
+        "features": [
+          "Personal branding for entrepreneurs and executives",
+          "Founder-led content strategy for businesses",
+          "Authentic storytelling that builds trust",
+          "Content that sells success stories"
+        ]
+      },
+      {
+        "title": "The Fourth Dimension",
+        "description": "An initiative dedicated to supporting entrepreneurship by creating historical and economical consciousness for young entrepreneurs, helping them understand the context and evolution of business.",
+        "image": {
+          "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675629/the_fourth_dimention_cover_eh4tzi.jpg",
+          "alt": "The Fourth Dimension - Your Source for Business, Economy, and History. Unlocking Knowledge. Where Business Meets History and Economy."
+        },
+        "features": [
+          "Historical context for modern entrepreneurship",
+          "Educational resources for young entrepreneurs",
+          "Connecting past innovations with future possibilities",
+          "Building entrepreneurial consciousness"
+        ]
+      }
+    ]
+  },
+  "testimonials": {
+    "heading": "What Others Say About Me",
+    "subheading": "Hear from entrepreneurs and business leaders who have worked with me.",
+    "items": [
+      {
+        "quote": "Moamen's strategic guidance helped us secure our Series A funding in record time. His approach to investor relations was game-changing for our startup.",
+        "name": "Sarah Johnson",
+        "title": "CEO, TechInnovate",
+        "image": "/placeholder.svg?height=100&width=100",
+        "company": "TechInnovate",
+        "companyUrl": "https://techinnovate.example.com"
+      },
+      {
+        "quote": "Working with Moamen transformed our business model completely. His ability to identify opportunities and optimize processes increased our revenue by 40% in just six months.",
+        "name": "David Chen",
+        "title": "Founder, GrowthMetrics",
+        "image": "/placeholder.svg?height=100&width=100",
+        "company": "GrowthMetrics",
+        "companyUrl": "https://growthmetrics.example.com"
+      },
+      {
+        "quote": "The business plan Moamen developed for us was instrumental in our expansion to three new markets. His strategic thinking and attention to detail are unmatched.",
+        "name": "Aisha Patel",
+        "title": "COO, GlobalReach",
+        "image": "/placeholder.svg?height=100&width=100",
+        "company": "GlobalReach",
+        "companyUrl": "https://globalreach.example.com"
+      },
+      {
+        "quote": "Moamen has a unique ability to turn complex business challenges into clear, actionable strategies. His consulting was pivotal for our company's turnaround.",
+        "name": "Michael Rodriguez",
+        "title": "Director, RevitalCorp",
+        "image": "/placeholder.svg?height=100&width=100",
+        "company": "RevitalCorp",
+        "companyUrl": "https://revitalcorp.example.com"
+      },
+      {
+        "quote": "The connections Moamen facilitated for our business opened doors we didn't even know existed. His network and relationship-building skills are truly exceptional.",
+        "name": "Emma Thompson",
+        "title": "Founder, ConnectBridge",
+        "image": "/placeholder.svg?height=100&width=100",
+        "company": "ConnectBridge",
+        "companyUrl": "https://connectbridge.example.com"
+      },
+      {
+        "quote": "From ideation to execution, Moamen guided our product launch with expertise and insight that only comes from years of experience. Couldn't recommend him more highly.",
+        "name": "Omar Hassan",
+        "title": "Product Lead, LaunchPad",
+        "image": "/placeholder.svg?height=100&width=100",
+        "company": "LaunchPad",
+        "companyUrl": "https://launchpad.example.com"
+      }
+    ]
+  },
+  "booking": {
+    "heading": "Let's Have a Conversation",
+    "subheading": "Ready to make your business idea into reality? Schedule a consultation using the calendar below.",
+    "calNamespace": "15min",
+    "calLink": "moamenhelal/15min",
+    "calHeight": "600px",
+    "calConfig": {
+      "layout": "month_view"
+    },
+    "calUiConfig": {
+      "hideEventTypeDetails": false,
+      "layout": "month_view"
+    }
+  },
+  "footer": {
+    "socialLinks": [
+      { "platform": "Linkedin", "url": "https://linkedin.com/in/moamenhelal" },
+      { "platform": "Twitter", "url": "https://twitter.com/moamenhelal" },
+      { "platform": "Instagram", "url": "https://instagram.com/moamenhelal0" },
+      { "platform": "Facebook", "url": "https://facebook.com/moamenhelal" }
+    ]
+  }
+} 
