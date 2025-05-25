@@ -87,7 +87,7 @@
       "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
       "alt": "Moamen Helal working with clients on business strategy"
     },
-    "vimeoId": "https://www.youtube.com/watch?v=wPui-w86ptU",
+    "youtubeId": "https://www.youtube.com/watch?v=wPui-w86ptU",
     "qualities": [
       {
         "title": "B2B Expert",
@@ -106,7 +106,7 @@
         "description": "Specialized in identifying growth opportunities, building partnerships, and business development strategies."
       }
     ],
-    "youtubeId": "https://www.youtube.com/watch?v=sZ1RWu3TTHQ"
+  
   },
   "services": {
     "heading": "Services",
