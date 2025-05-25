@@ -49,10 +49,22 @@
   "navigation": {
     "logo": "MOAMEN HELAL",
     "links": [
-      { "text": "About", "href": "#about" },
-      { "text": "Services", "href": "#services" },
-      { "text": "Ventures", "href": "#ventures" },
-      { "text": "Testimonials", "href": "#testimonials" }
+      {
+        "text": "About",
+        "href": "#about"
+      },
+      {
+        "text": "Services",
+        "href": "#services"
+      },
+      {
+        "text": "Ventures",
+        "href": "#ventures"
+      },
+      {
+        "text": "Testimonials",
+        "href": "#testimonials"
+      }
     ],
     "cta": "Let's Call"
   },
@@ -75,7 +87,7 @@
       "src": "https://res.cloudinary.com/dduxyvs3x/image/upload/v1747675546/1726697723633_sh82qu.jpg",
       "alt": "Moamen Helal working with clients on business strategy"
     },
-    "vimeoId": "824804225",
+    "vimeoId": "https://www.youtube.com/watch?v=D7MiFW8BvlM",
     "qualities": [
       {
         "title": "B2B Expert",
@@ -263,10 +275,22 @@
   },
   "footer": {
     "socialLinks": [
-      { "platform": "Linkedin", "url": "https://linkedin.com/in/moamenhelal" },
-      { "platform": "Twitter", "url": "https://twitter.com/moamenhelal" },
-      { "platform": "Instagram", "url": "https://instagram.com/moamenhelal0" },
-      { "platform": "Facebook", "url": "https://facebook.com/moamenhelal" }
+      {
+        "platform": "Linkedin",
+        "url": "https://linkedin.com/in/moamenhelal"
+      },
+      {
+        "platform": "Twitter",
+        "url": "https://twitter.com/moamenhelal"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/moamenhelal0"
+      },
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/moamenhelal"
+      }
     ]
   }
-} 
+}
